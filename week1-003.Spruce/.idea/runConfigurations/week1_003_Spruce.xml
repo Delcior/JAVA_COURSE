@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-003.Spruce" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Spruce" />
+    <module name="week1-003.Spruce" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

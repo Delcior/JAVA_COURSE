@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-040.PrintingLikeboss" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PrintingLikeBoss" />
+    <module name="week2-040.PrintingLikeboss" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

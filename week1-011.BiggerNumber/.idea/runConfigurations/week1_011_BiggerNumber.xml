@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-011.BiggerNumber" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="BiggerNumber" />
+    <module name="week1-011.BiggerNumber" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

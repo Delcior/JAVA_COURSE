@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-026.SumOfManyNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SumOfManyNumbers" />
+    <module name="week2-026.SumOfManyNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

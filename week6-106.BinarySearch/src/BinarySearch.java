@@ -1,0 +1,27 @@
+public class BinarySearch {
+    public static boolean search(int[] array, int searchedValue) {
+        int beginning = 0;
+        int end = array.length - 1;
+
+        while (beginning <= end) {
+            int middle = (beginning + end) / 2;
+            if (array[middle] == searchedValue) {
+                return true;
+            }else if(array[middle]>searchedValue){
+                end=middle;
+            }else if(array[middle]<searchedValue){
+                beginning=middle;
+                if((end-beginning)==1){
+                    if(array[end] == searchedValue)
+                    return true;
+                    else
+                        return false;
+                }
+
+            }
+
+            // restrict the search area 
+        }
+        return false;
+    }
+}

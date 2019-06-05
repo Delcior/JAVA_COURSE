@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week4-072.1.YourFirstAccount" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Accounts" />
+    <module name="week4-072.1.YourFirstAccount" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

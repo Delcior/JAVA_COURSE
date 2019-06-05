@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-009.Divider" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Divider" />
+    <module name="week1-009.Divider" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

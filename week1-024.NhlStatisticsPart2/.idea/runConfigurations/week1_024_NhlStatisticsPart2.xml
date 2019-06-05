@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-024.NhlStatisticsPart2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="NhlStatisticsPart2" />
+    <module name="week1-024.NhlStatisticsPart2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

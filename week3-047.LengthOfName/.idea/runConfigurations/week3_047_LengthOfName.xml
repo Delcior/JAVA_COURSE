@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-047.LengthOfName" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LengthOfName" />
+    <module name="week3-047.LengthOfName" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

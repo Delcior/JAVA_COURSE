@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-014.PositiveValue" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PositiveValue" />
+    <module name="week1-014.PositiveValue" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-070.CombiningArrayLists" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="CombiningArrayLists" />
+    <module name="week3-070.CombiningArrayLists" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
